@@ -1,0 +1,63 @@
+body {
+    margin: 0px;
+}
+
+.cv-document {
+	box-sizing: border-box;
+	border: none;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	vertical-align: baseline;
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	font-family: arial, sans-serif, tahoma;
+	font-size: 10pt;
+}
+
+.cv-page {
+    outline: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    text-decoration: none;
+    width: 900px;
+    min-height: 900px;
+    margin: 0 auto;
+    box-shadow: 0 0 1px rgba(0,0,0,.5);
+    background-color: #fff;
+    position: relative;
+
+    padding: 40px
+}
+.picture{
+    width: 212px;
+    height: 154px;
+    left: 927px;
+    top: 73px;
+    right: 1184px;
+    bottom: 227px;  
+   
+}
+.row-infor {
+    display: flex;
+    padding: 5px ;
+    border: #986e6e;
+}
+.picture {
+    width: 190px;
+    height: 210px;
+    top: 45px;
+    left: 650px;
+    right: 1200px;
+
+  
+    position: absolute;
+}
+.row-infor {
+    border-style:;
+}
+
